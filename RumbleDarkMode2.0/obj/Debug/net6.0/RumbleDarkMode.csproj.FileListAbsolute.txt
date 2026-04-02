@@ -1,0 +1,205 @@
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\RumbleDarkMode.deps.json
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\RumbleDarkMode.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\RumbleDarkMode.pdb
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppInterop.Runtime.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2Cppmscorlib.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\MelonLoader.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.AssetBundleModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.CoreModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.Il2CppAssetBundleManager.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppInterop.Common.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\0Harmony.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\MonoMod.Utils.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\MonoMod.RuntimeDetour.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\bHapticsLib.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Tomlet.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Mono.Cecil.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\AssetsTools.NET.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\AsmResolver.DotNet.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\AsmResolver.PE.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\AsmResolver.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppInterop.Generator.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Microsoft.Diagnostics.Runtime.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Mono.Cecil.Mdb.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Mono.Cecil.Pdb.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Mono.Cecil.Rocks.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\AsmResolver.PE.File.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppInterop.HarmonySupport.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\WebSocketDotNet.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\MonoMod.Backports.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\MonoMod.ILHelpers.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\MelonLoader.xml
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\obj\Debug\net6.0\RumbleDarkMode.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\obj\Debug\net6.0\RumbleDarkMode.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\obj\Debug\net6.0\RumbleDarkMode.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\obj\Debug\net6.0\RumbleDarkMode.AssemblyInfo.cs
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\obj\Debug\net6.0\RumbleDarkMode.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\obj\Debug\net6.0\RumbleDa.A3AE15F5.Up2Date
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\obj\Debug\net6.0\RumbleDarkMode.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\obj\Debug\net6.0\refint\RumbleDarkMode.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\obj\Debug\net6.0\RumbleDarkMode.pdb
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\obj\Debug\net6.0\ref\RumbleDarkMode.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\AssetRipper.Primitives.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\MelonLoader.pdb
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.Il2CppAssetBundleManager.pdb
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.ImageConversionModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppPhotonUnityNetworking.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppRUMBLE.Runtime.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppPhoton3Unity3D.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppPhotonRealtime.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppSystem.Core.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppSystem.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.AnimationModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.Physics2DModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.PhysicsModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.VFXModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.TextMeshPro.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppPlayFab.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.XRModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.AudioModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppRUMBLE.Platform.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.UI.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.DirectorModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.Timeline.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppSmartLocalization.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppLIV.LCK.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppBucketheadEntertainment.Plugins.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.ParticleSystemModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.RenderPipelines.Universal.Runtime.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppPhotonVoice.API.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.InputSystem.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppLIV.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppRUMBLE.Plugins.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.RenderPipelines.Core.Runtime.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppPhotonVoice.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppPhotonChat.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.Mathematics.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.XR.OpenXR.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.UnityWebRequestModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppRUMBLE.Platform.Info.Steam.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppSystem.Numerics.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppMono.Security.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppSystem.Xml.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppSystem.Configuration.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.UIModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.TextCoreFontEngineModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.TextRenderingModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.IMGUIModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.SubsystemsModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppRUMBLE.Platform.Info.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.UIElementsModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.InputLegacyModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppLIV.NativeAudioBridge.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppSystem.Net.Http.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppNativeGallery.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppNewtonsoft.Json.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.VisualEffectGraph.Runtime.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.RenderPipelines.GPUDriven.Runtime.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.AndroidJNIModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.InputModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.AIModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.Collections.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.UnityAnalyticsCommonModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.XR.Management.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2Cppcom.rlabrecque.steamworks.net.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.TextCoreTextEngineModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.PropertiesModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.HierarchyCoreModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.InputForUIModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.JSONSerializeModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppSystem.Runtime.Serialization.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppSystem.Data.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppSystem.Xml.Linq.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.TerrainModule.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.Burst.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\ModUI.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\RumbleModdingAPI.dll
+E:\Visual Studio Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Iced.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\RumbleDarkMode.deps.json
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\RumbleDarkMode.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppBucketheadEntertainment.Plugins.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppInterop.Runtime.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2Cppmscorlib.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppPhotonUnityNetworking.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppRUMBLE.Plugins.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppRUMBLE.Runtime.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.CoreModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.ImageConversionModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.PhysicsModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.VFXModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.TextMeshPro.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppInterop.Common.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppPhoton3Unity3D.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppPhotonRealtime.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppSystem.Core.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppSystem.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.AnimationModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.Physics2DModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.DirectorModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.AIModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.UnityWebRequestModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.IMGUIModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.AndroidJNIModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.UI.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppPlayFab.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.XRModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.AudioModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppRUMBLE.Platform.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.Timeline.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppSmartLocalization.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppLIV.LCK.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.ParticleSystemModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.RenderPipelines.Universal.Runtime.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppPhotonVoice.API.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.InputSystem.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.RenderPipelines.Core.Runtime.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppPhotonVoice.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppPhotonChat.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.Mathematics.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.XR.OpenXR.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppRUMBLE.Platform.Info.Steam.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.InputLegacyModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.UIModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.TextCoreFontEngineModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.TextRenderingModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppMono.Security.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppSystem.Xml.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppSystem.Configuration.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.TextCoreTextEngineModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.UIElementsModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.SubsystemsModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppRUMBLE.Platform.Info.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppLIV.NativeAudioBridge.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppNativeGallery.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.VisualEffectGraph.Runtime.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.RenderPipelines.GPUDriven.Runtime.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.InputModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.Collections.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.UnityAnalyticsCommonModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.XR.Management.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2Cppcom.rlabrecque.steamworks.net.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.PropertiesModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.HierarchyCoreModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.InputForUIModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.JSONSerializeModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\UnityEngine.TerrainModule.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.Burst.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\obj\Debug\net6.0\RumbleDarkMode.csproj.AssemblyReference.cache
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\obj\Debug\net6.0\RumbleDarkMode.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\obj\Debug\net6.0\RumbleDarkMode.AssemblyInfoInputs.cache
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\obj\Debug\net6.0\RumbleDarkMode.AssemblyInfo.cs
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\obj\Debug\net6.0\RumbleDarkMode.csproj.CoreCompileInputs.cache
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\obj\Debug\net6.0\RumbleDa.A3AE15F5.Up2Date
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\obj\Debug\net6.0\RumbleDarkMode.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\obj\Debug\net6.0\refint\RumbleDarkMode.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\obj\Debug\net6.0\ref\RumbleDarkMode.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Unity.Profiling.Core.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppLIV.LCKCore.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppLIV.LCKCore.ThirdParty.MessagePack.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\ModUI.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\RumbleModdingAPI.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\bin\Debug\net6.0\Il2CppSystem.Numerics.dll
+E:\Projects\RumbleDarkMode2.0\RumbleDarkMode2.0\obj\Debug\net6.0\RumbleDarkMode.sourcelink.json

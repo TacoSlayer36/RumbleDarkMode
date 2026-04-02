@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "zxCG7dAViS0=",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\RumbleDarkMode2.0\\RumbleDarkMode2.0\\RumbleDarkMode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bella\\.nuget\\packages\\lavagang.melonloader\\0.7.1\\lavagang.melonloader.0.7.1.nupkg.sha512",
+    "C:\\Users\\bella\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\bella\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\bella\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\bella\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
