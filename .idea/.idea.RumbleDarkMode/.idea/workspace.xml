@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85afbef3-dc07-478a-aa18-40e444d79311" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppBucketheadEntertainment.Plugins.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppBucketheadEntertainment.Plugins.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppLIV.LCK.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppLIV.LCK.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppLIV.LCKCore.ThirdParty.MessagePack.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppLIV.LCKCore.ThirdParty.MessagePack.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppLIV.LCKCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppLIV.LCKCore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppLIV.NativeAudioBridge.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppLIV.NativeAudioBridge.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppMono.Security.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppMono.Security.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppNativeGallery.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppNativeGallery.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppPhoton3Unity3D.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppPhoton3Unity3D.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppPhotonChat.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppPhotonChat.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppPhotonRealtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppPhotonRealtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppPhotonUnityNetworking.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppPhotonUnityNetworking.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppPhotonVoice.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppPhotonVoice.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppPhotonVoice.PUN.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppPhotonVoice.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppPhotonVoice.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppPlayFab.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppPlayFab.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppRUMBLE.Platform.Info.Steam.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppRUMBLE.Platform.Info.Steam.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppRUMBLE.Platform.Info.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppRUMBLE.Platform.Info.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppRUMBLE.Platform.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppRUMBLE.Platform.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppRUMBLE.Plugins.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppRUMBLE.Plugins.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppRUMBLE.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppRUMBLE.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppSmartLocalization.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppSmartLocalization.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppSystem.Configuration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppSystem.Configuration.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppSystem.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppSystem.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppSystem.Xml.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppSystem.Xml.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2CppSystem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2Cppcom.rlabrecque.steamworks.net.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2Cppcom.rlabrecque.steamworks.net.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2Cppmscorlib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Il2Cppmscorlib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/ModUI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/ModUI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/RumbleDarkMode.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/RumbleDarkMode.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/RumbleModdingAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/RumbleModdingAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.Burst.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.Burst.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.Collections.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.Collections.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.InputSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.InputSystem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.Mathematics.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.Mathematics.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.Profiling.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.Profiling.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.RenderPipeline.Universal.ShaderLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.RenderPipeline.Universal.ShaderLibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.RenderPipelines.Core.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.RenderPipelines.Core.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.RenderPipelines.GPUDriven.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.RenderPipelines.GPUDriven.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.RenderPipelines.Universal.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.RenderPipelines.Universal.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.Timeline.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.VisualEffectGraph.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.VisualEffectGraph.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.XR.Management.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.XR.Management.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.XR.OpenXR.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/Unity.XR.OpenXR.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.AIModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.AIModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.AndroidJNIModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.AndroidJNIModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.AnimationModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.AnimationModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.AudioModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.AudioModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.CoreModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.CoreModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.DirectorModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.DirectorModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.HierarchyCoreModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.HierarchyCoreModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.IMGUIModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.IMGUIModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.ImageConversionModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.ImageConversionModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.InputForUIModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.InputForUIModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.InputLegacyModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.InputLegacyModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.InputModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.InputModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.JSONSerializeModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.JSONSerializeModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.ParticleSystemModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.ParticleSystemModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.Physics2DModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.Physics2DModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.PhysicsModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.PhysicsModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.PropertiesModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.PropertiesModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.SubsystemsModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.SubsystemsModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.TerrainModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.TerrainModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.TextCoreFontEngineModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.TextCoreFontEngineModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.TextCoreTextEngineModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.TextCoreTextEngineModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.TextRenderingModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.TextRenderingModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.UIElementsModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.UIElementsModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.UIModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.UIModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.UnityAnalyticsCommonModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.UnityAnalyticsCommonModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.UnityWebRequestModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.UnityWebRequestModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.VFXModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.VFXModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.XRModule.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/bin/Debug/net6.0/UnityEngine.XRModule.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/obj/Debug/net6.0/RumbleDarkMode.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/obj/Debug/net6.0/RumbleDarkMode.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/obj/Debug/net6.0/RumbleDarkMode.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/obj/Debug/net6.0/RumbleDarkMode.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/obj/Debug/net6.0/RumbleDarkMode.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/obj/Debug/net6.0/RumbleDarkMode.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/obj/Debug/net6.0/RumbleDarkMode.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/obj/Debug/net6.0/RumbleDarkMode.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/obj/Debug/net6.0/RumbleDarkMode.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/obj/Debug/net6.0/RumbleDarkMode.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/obj/Debug/net6.0/ref/RumbleDarkMode.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/obj/Debug/net6.0/ref/RumbleDarkMode.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RumbleDarkMode2.0/obj/Debug/net6.0/refint/RumbleDarkMode.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RumbleDarkMode2.0/obj/Debug/net6.0/refint/RumbleDarkMode.dll" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/RumbleDarkMode2.0" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;xLoadingx&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/xLoadingx/RumbleDarkMode&quot;,
+    &quot;accountId&quot;: &quot;cbd3a1dd-5d10-4eae-800f-5591ba1dc696&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/RumbleDarkMode2.0/Main.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RumbleDarkMode2.0/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="30W1k7IDzmvOi6CpH6b0LlmEPEs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/Projects/RumbleDarkMode2.0/RumbleDarkMode.sln",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "io.github.pandier.intellijdiscordrp.settings.DiscordSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="useMixedMode" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85afbef3-dc07-478a-aa18-40e444d79311" name="Changes" comment="" />
+      <created>1753728654830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753728654830</updated>
+      <workItem from="1753728655946" duration="10136000" />
+      <workItem from="1753746502940" duration="2037000" />
+      <workItem from="1754759240910" duration="504000" />
+      <workItem from="1755641674012" duration="661000" />
+      <workItem from="1762099713663" duration="103000" />
+      <workItem from="1765320715097" duration="295000" />
+      <workItem from="1765339280286" duration="2000" />
+      <workItem from="1765720204725" duration="57000" />
+      <workItem from="1769462099487" duration="2376000" />
+      <workItem from="1769464630477" duration="606000" />
+      <workItem from="1769465269592" duration="150000" />
+      <workItem from="1769465438545" duration="1457000" />
+      <workItem from="1769476922362" duration="4589000" />
+      <workItem from="1769556360592" duration="135000" />
+      <workItem from="1769556511035" duration="8166000" />
+      <workItem from="1769646006826" duration="4467000" />
+      <workItem from="1770608085082" duration="262000" />
+      <workItem from="1770608966881" duration="608000" />
+      <workItem from="1771124076953" duration="30000" />
+      <workItem from="1771124115538" duration="1686000" />
+      <workItem from="1771173704596" duration="2446000" />
+      <workItem from="1771176506023" duration="15000" />
+      <workItem from="1771176576082" duration="39000" />
+      <workItem from="1771176812638" duration="477000" />
+      <workItem from="1771177330158" duration="121000" />
+      <workItem from="1771177769111" duration="316000" />
+      <workItem from="1771190138314" duration="443000" />
+      <workItem from="1771190777431" duration="32000" />
+      <workItem from="1771201132431" duration="3916000" />
+      <workItem from="1771205112326" duration="1107000" />
+      <workItem from="1771206279229" duration="1277000" />
+      <workItem from="1771309274951" duration="1646000" />
+      <workItem from="1771356947493" duration="168000" />
+      <workItem from="1772062756789" duration="1852000" />
+      <workItem from="1772070710135" duration="13000" />
+      <workItem from="1772142589258" duration="629000" />
+      <workItem from="1773275619249" duration="1176000" />
+      <workItem from="1775089617005" duration="1959000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
